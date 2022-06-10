@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+0001-AAAAA,Female,1,Yes,Yes,23,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,76.15,1874.45
+0001-AAAAB,Male,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),25.2,20.2
+0001-AAAAC,Female,1,Yes,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),85.25,45.25
+0001-AAAAD,Female,1,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),89.9,7251.7
+0001-AAAAE,Male,0,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,59.7,316.9
+0001-AAAAF,Female,0,Yes,No,37,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),64.8,3548.3
+0001-AAAAG,Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,116.35,3549.25
+0001-AAAAH,Male,1,No,No,9,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),87.85,1105.4
+0001-AAAAI,Female,0,Yes,Yes,10,Yes,No,DSL,No,Yes,No,No,No,No,One year,No,Mailed check,39.55,475.7
+0001-AAAAJ,Female,1,Yes,Yes,61,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),79.2,4872.35
